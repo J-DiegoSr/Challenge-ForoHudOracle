@@ -26,4 +26,4 @@ Asegúrese de configurar las siguientes propiedades en application.properties o 
         spring.datasource.password=contraseña
 
 Contribuciones
-Todo comentario o sugerencia para mejora de este proyecto es bienvenido
+            Todo comentario o sugerencia para mejora de este proyecto es bienvenido
